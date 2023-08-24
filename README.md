@@ -25,3 +25,5 @@ npm i nodemon -D
     tweet(root, args){}
     postTweet(_, { text, userId }){}
     deleteTweet(){_, { id }}
+
+### type 내부의 field = resolver function 만들기
