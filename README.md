@@ -7,3 +7,9 @@ npm i nodemon -D
 ```
 
 ### gql `type Query{}`
+
+### type Query schema 설계
+
+### type Mutation
+
+    POST - DELETE PUT
