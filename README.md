@@ -13,3 +13,9 @@ npm i nodemon -D
 ### type Mutation
 
     POST - DELETE PUT
+
+### 모든 필드는 기본적으로 nullable
+
+    ! - field 들이 null이면 안됨
+
+    value or null
