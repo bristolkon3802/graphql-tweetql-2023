@@ -14,8 +14,12 @@ npm i nodemon -D
 
     POST - DELETE PUT
 
-### 모든 필드는 기본적으로 nullable
+### 모든 필드는 기본적으로 nullable / Non Nullable Fields
 
     ! - field 들이 null이면 안됨
 
     value or null
+
+### resovers
+
+    tweet(root, args){}
