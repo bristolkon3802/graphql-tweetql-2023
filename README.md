@@ -23,3 +23,5 @@ npm i nodemon -D
 ### resovers
 
     tweet(root, args){}
+    postTweet(_, { text, userId }){}
+    deleteTweet(){_, { id }}
