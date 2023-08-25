@@ -27,3 +27,5 @@ npm i nodemon -D
     deleteTweet(){_, { id }}
 
 ### type 내부의 field = resolver function 만들기
+
+### tweets users schema 연결
