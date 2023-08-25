@@ -29,3 +29,5 @@ npm i nodemon -D
 ### type 내부의 field = resolver function 만들기
 
 ### tweets users schema 연결
+
+### schema 명세 작성
