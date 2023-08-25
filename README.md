@@ -31,3 +31,7 @@ npm i nodemon -D
 ### tweets users schema 연결
 
 ### schema 명세 작성
+
+### Movies => data를 graphql api 변환
+
+    npm i node-fetch
